@@ -11,7 +11,7 @@ Real-Time Weather Updates: Fetches and displays current weather information base
 Interactive Chat Interface: User-friendly chat interface for interacting with the bot.
 API Integration: Utilizes a weather API to retrieve accurate weather data.
 
-Installation
+Installation:
 To run this project locally, follow these steps:
 
 Clone the repository:
