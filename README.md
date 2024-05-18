@@ -1,16 +1,15 @@
 Chatbot
 
-Overview
+Overview: 
+
 Welcome to the Responsive Weather Chatbot repository! This project is a web-based chatbot that provides real-time weather updates using a weather API. It is built with HTML, CSS, and JavaScript, offering a responsive design to ensure a seamless user experience across various devices.
 
-Features
+Features:
+
 Responsive Design: Adapts to different screen sizes for mobile, tablet, and desktop users.
 Real-Time Weather Updates: Fetches and displays current weather information based on user queries.
 Interactive Chat Interface: User-friendly chat interface for interacting with the bot.
 API Integration: Utilizes a weather API to retrieve accurate weather data.
-
-Demo
-You can view a live demo of the project http://127.0.0.1:5500/Chatbot/index.html .
 
 Installation
 To run this project locally, follow these steps:
