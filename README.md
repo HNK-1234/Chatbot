@@ -8,6 +8,7 @@ Responsive Design: Adapts to different screen sizes for mobile, tablet, and desk
 Real-Time Weather Updates: Fetches and displays current weather information based on user queries.
 Interactive Chat Interface: User-friendly chat interface for interacting with the bot.
 API Integration: Utilizes a weather API to retrieve accurate weather data.
+
 Demo
 You can view a live demo of the project http://127.0.0.1:5500/Chatbot/index.html .
 
@@ -16,21 +17,29 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 bash
+
 Copy code
 git clone https://github.com/HNK-1234/Chatbot.git
+
 Navigate to the project directory:
 bash
+
 Copy code
 cd Chatbot
+
 Open index.html in your web browser:
 bash
+
 Copy code
 open index.html
+
 Usage
 Start a chat session: Open the index.html file in your browser. The chatbot interface will appear.
 Ask for weather updates: Type in your city or location to get the current weather details. For example, "What's the weather in New York?"
+
 Project Structure
 scss
+
 Copy code
 weather-chatbot/
 ├── index.html
@@ -41,6 +50,7 @@ weather-chatbot/
 ├── assets/
 │   └── (icons, etc.)
 └── README.md
+
 index.html: The main HTML file containing the structure of the chatbot interface.
 css/styles.css: The CSS file for styling the chatbot and ensuring responsiveness.
 js/script.js: The JavaScript file handling the chatbot logic and API interactions.
@@ -67,5 +77,6 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
